@@ -83,7 +83,21 @@ You can play in either:
 
 ## 📸 Screenshots
 
-<img src="https://example.com/screenshot.png" alt="Art Dealer Game Screenshot" width="500">
+### game screenshot of grade k-2
+![image](https://github.com/user-attachments/assets/cbd8a9e6-0946-47cb-8c78-cde56dd28148)
+
+### game screenshot of grade 3-5
+![image](https://github.com/user-attachments/assets/4dd26697-46d1-4f70-ae0d-3b4fc60387fc)
+
+### game screenshot of grade 6-8
+#### Single PLayer Mode
+![image](https://github.com/user-attachments/assets/7a436636-e668-4b57-a0cb-58f5cb672666)
+
+#### Multi player Mode
+![image](https://github.com/user-attachments/assets/d8a10089-7bca-4eb7-b329-f058f8122552)
+![image](https://github.com/user-attachments/assets/21d1d030-7450-481a-b0af-c1378f76fedf)
+
+
 
 ---
 
